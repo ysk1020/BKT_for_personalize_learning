@@ -74,7 +74,7 @@ Requires Python 3 and Jupyter.
 ```powershell
 python -m venv .venv
 .venv\Scripts\Activate.ps1
-pip install pandas numpy matplotlib seaborn scikit-learn pybkt jupyter
+pip install -r requirements.txt
 jupyter notebook
 ```
 
