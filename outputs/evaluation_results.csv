@@ -1,0 +1,2 @@
+model,auc,accuracy,rmse,baseline_auc,baseline_accuracy,baseline_rmse,macro_skill_auc,weighted_skill_auc,n_train_students,n_test_students,n_train_rows,n_test_rows,n_evaluated_skills,seed,num_fits
+BKT,0.7197740624610821,0.7132883563253113,0.4396482224630875,0.6206149090678951,0.6587956902628134,0.46576787707314266,0.6466679603543612,0.6784300921719446,2442,611,234832,59586,88,42,1
