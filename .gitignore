@@ -40,3 +40,5 @@ Thumbs.db
 requirements-freeze.txt
 
 .claude
+# PowerShell cache
+Microsoft/
